@@ -1,0 +1,353 @@
+{
+    "Markets": [
+        {
+            "Id": 0,
+            "Symbol": ".IXIC",
+            "Last": 2791.19,
+            "Change": 2
+        },
+        {
+            "Id": 0,
+            "Symbol": "DJI",
+            "Last": 12393.9,
+            "Change": -6.13
+        },
+        {
+            "Id": 0,
+            "Symbol": "INX",
+            "Last": 1332.63,
+            "Change": -0.24
+        },
+        {
+            "Id": 0,
+            "Symbol": "AA",
+            "Last": 17.77,
+            "Change": -0.15
+        },
+        {
+            "Id": 0,
+            "Symbol": "AAPL",
+            "Last": 330.8,
+            "Change": -4.26
+        },
+        {
+            "Id": 0,
+            "Symbol": "AMZN",
+            "Last": 184.04,
+            "Change": -0.67
+        },
+        {
+            "Id": 0,
+            "Symbol": "AOL",
+            "Last": 19.8,
+            "Change": -0.27
+        },
+        {
+            "Id": 0,
+            "Symbol": "BA",
+            "Last": 73.76,
+            "Change": 0.29
+        },
+        {
+            "Id": 0,
+            "Symbol": "BAC",
+            "Last": 13.49,
+            "Change": 0.01
+        },
+        {
+            "Id": 0,
+            "Symbol": "BIDU",
+            "Last": 145.68,
+            "Change": 3.8
+        },
+        {
+            "Id": 0,
+            "Symbol": "C",
+            "Last": 4.53,
+            "Change": -0.03
+        },
+        {
+            "Id": 0,
+            "Symbol": "CAT",
+            "Last": 109.07,
+            "Change": -0.75
+        },
+        {
+            "Id": 0,
+            "Symbol": "CRM",
+            "Last": 134.62,
+            "Change": -0.03
+        },
+        {
+            "Id": 0,
+            "Symbol": "CSCO",
+            "Last": 17.47,
+            "Change": -0.18
+        },
+        {
+            "Id": 0,
+            "Symbol": "CVX",
+            "Last": 107.78,
+            "Change": -1.88
+        },
+        {
+            "Id": 0,
+            "Symbol": "DIS",
+            "Last": 41.89,
+            "Change": 0.13
+        },
+        {
+            "Id": 0,
+            "Symbol": "EBAY",
+            "Last": 31.19,
+            "Change": 0.05
+        },
+        {
+            "Id": 0,
+            "Symbol": "EMC",
+            "Last": 26.38,
+            "Change": 0.25
+        },
+        {
+            "Id": 0,
+            "Symbol": "F",
+            "Last": 14.86,
+            "Change": -0.47
+        },
+        {
+            "Id": 0,
+            "Symbol": "FCNTX",
+            "Last": 70.73,
+            "Change": -0.33
+        },
+        {
+            "Id": 0,
+            "Symbol": "FCX",
+            "Last": 55.44,
+            "Change": -1.79
+        },
+        {
+            "Id": 0,
+            "Symbol": "FDGFX",
+            "Last": 30.22,
+            "Change": -0.2
+        },
+        {
+            "Id": 0,
+            "Symbol": "FDX",
+            "Last": 92.53,
+            "Change": 1.37
+        },
+        {
+            "Id": 0,
+            "Symbol": "FMAGX",
+            "Last": 74.87,
+            "Change": -0.41
+        },
+        {
+            "Id": 0,
+            "Symbol": "GD",
+            "Last": 73.75,
+            "Change": -0.76
+        },
+        {
+            "Id": 0,
+            "Symbol": "GE",
+            "Last": 20.18,
+            "Change": -0.01
+        },
+        {
+            "Id": 0,
+            "Symbol": "GOOG",
+            "Last": 577.37,
+            "Change": -0.79
+        },
+        {
+            "Id": 0,
+            "Symbol": "H",
+            "Last": 41.12,
+            "Change": -0.7
+        },
+        {
+            "Id": 0,
+            "Symbol": "IBM",
+            "Last": 163.95,
+            "Change": -0.1
+        },
+        {
+            "Id": 0,
+            "Symbol": "INTC",
+            "Last": 20.12,
+            "Change": 0.1
+        },
+        {
+            "Id": 0,
+            "Symbol": "ITRGX",
+            "Last": 55.85,
+            "Change": -0.21
+        },
+        {
+            "Id": 0,
+            "Symbol": "JPM",
+            "Last": 46.86,
+            "Change": 0.02
+        },
+        {
+            "Id": 0,
+            "Symbol": "K",
+            "Last": 54.71,
+            "Change": 0.77
+        },
+        {
+            "Id": 0,
+            "Symbol": "LLY",
+            "Last": 35.87,
+            "Change": 0.18
+        },
+        {
+            "Id": 0,
+            "Symbol": "LMT",
+            "Last": 80.51,
+            "Change": 0.01
+        },
+        {
+            "Id": 0,
+            "Symbol": "MSFT",
+            "Last": 25.98,
+            "Change": -0.09
+        },
+        {
+            "Id": 0,
+            "Symbol": "MTH",
+            "Last": 24.62,
+            "Change": 0.1
+        },
+        {
+            "Id": 0,
+            "Symbol": "NKE",
+            "Last": 78.13,
+            "Change": 0.74
+        },
+        {
+            "Id": 0,
+            "Symbol": "NOC",
+            "Last": 62.95,
+            "Change": 0.57
+        },
+        {
+            "Id": 0,
+            "Symbol": "NOK",
+            "Last": 9.03,
+            "Change": 0.01
+        },
+        {
+            "Id": 0,
+            "Symbol": "ORCL",
+            "Last": 33.78,
+            "Change": 0.31
+        },
+        {
+            "Id": 0,
+            "Symbol": "PG",
+            "Last": 62.19,
+            "Change": 0.29
+        },
+        {
+            "Id": 0,
+            "Symbol": "Q",
+            "Last": 0,
+            "Change": 0
+        },
+        {
+            "Id": 0,
+            "Symbol": "RBS",
+            "Last": 14.48,
+            "Change": 0.36
+        },
+        {
+            "Id": 0,
+            "Symbol": "RTN",
+            "Last": 50.72,
+            "Change": -0.07
+        },
+        {
+            "Id": 0,
+            "Symbol": "S",
+            "Last": 4.71,
+            "Change": -0.02
+        },
+        {
+            "Id": 0,
+            "Symbol": "SLB",
+            "Last": 88.8,
+            "Change": -2.05
+        },
+        {
+            "Id": 0,
+            "Symbol": "SPF",
+            "Last": 3.7,
+            "Change": -0.02
+        },
+        {
+            "Id": 0,
+            "Symbol": "T",
+            "Last": 30.66,
+            "Change": -0.05
+        },
+        {
+            "Id": 0,
+            "Symbol": "UL",
+            "Last": 31.32,
+            "Change": 0.22
+        },
+        {
+            "Id": 0,
+            "Symbol": "V",
+            "Last": 77.71,
+            "Change": 0.99
+        },
+        {
+            "Id": 0,
+            "Symbol": "WMT",
+            "Last": 52.82,
+            "Change": 0.28
+        },
+        {
+            "Id": 0,
+            "Symbol": "X",
+            "Last": 51.72,
+            "Change": -1.08
+        },
+        {
+            "Id": 0,
+            "Symbol": "XOM",
+            "Last": 85.16,
+            "Change": -0.79
+        },
+        {
+            "Id": 0,
+            "Symbol": "XRX",
+            "Last": 10.79,
+            "Change": 0.09
+        },
+        {
+            "Id": 0,
+            "Symbol": "YHOO",
+            "Last": 16.59,
+            "Change": -0.18
+        },
+        {
+            "Id": 0,
+            "Symbol": "ZION",
+            "Last": 24.16,
+            "Change": -0.06
+        }
+    ],
+    "News": [
+        "TOP Oil Market News: Crude Gains; Heating Oil to Pass Gasoline",
+        "Canada Dollar Steadies As Oil Prices Look Higher",
+        "FOMC Outlook: Non-Event for Markets",
+        "Gold Prices Bounce",
+        "Covidien CEO To Retire; Head Of Medical Devices Named Successor"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "DayHigh": 26.18,
+    "DayLow": 25.74,
+    "Dividend": 0,
+    "Open": 25.82,
+    "Volume": 73693937,
+    "YearHigh": 0,
+    "YearLow": 0,
+    "AverageVolume": 63298,
+    "MarketCap": 216613.41,
+    "ExchangeId": 94,
+    "Exchange": null,
+    "Id": 2169,
+    "Change": -0.09,
+    "PercentChange": -0.35,
+    "Last": 25.98,
+    "Shares": 0,
+    "Symbol": "MSFT",
+    "RetrievalDateTime": "/Date(1302519035763)/",
+    "Company": "Microsoft Corporation",
+    "DataPoints": [
+        {
+            "Id": 0,
+            "Time": "09:30:00",
+            "JSTicks": 1416475800000,
+            "Value": 25.34
+        },
+        {
+            "Id": 0,
+            "Time": "10:00:00",
+            "JSTicks": 1416477600000,
+            "Value": 24.06
+        },
+        {
+            "Id": 0,
+            "Time": "10:30:00",
+            "JSTicks": 1416479400000,
+            "Value": 25.85
+        },
+        {
+            "Id": 0,
+            "Time": "11:00:00",
+            "JSTicks": 1416481200000,
+            "Value": 26.12
+        },
+        {
+            "Id": 0,
+            "Time": "11:30:00",
+            "JSTicks": 1416483000000,
+            "Value": 27.39
+        },
+        {
+            "Id": 0,
+            "Time": "12:00:00",
+            "JSTicks": 1416484800000,
+            "Value": 24.55
+        },
+        {
+            "Id": 0,
+            "Time": "12:30:00",
+            "JSTicks": 1416486600000,
+            "Value": 23.28
+        },
+        {
+            "Id": 0,
+            "Time": "13:00:00",
+            "JSTicks": 1416488400000,
+            "Value": 25.63
+        },
+        {
+            "Id": 0,
+            "Time": "13:30:00",
+            "JSTicks": 1416490200000,
+            "Value": 26.9
+        },
+        {
+            "Id": 0,
+            "Time": "14:00:00",
+            "JSTicks": 1416492000000,
+            "Value": 27.18
+        },
+        {
+            "Id": 0,
+            "Time": "14:30:00",
+            "JSTicks": 1416493800000,
+            "Value": 24.77
+        },
+        {
+            "Id": 0,
+            "Time": "15:00:00",
+            "JSTicks": 1416495600000,
+            "Value": 23.5
+        },
+        {
+            "Id": 0,
+            "Time": "15:30:00",
+            "JSTicks": 1416497400000,
+            "Value": 27.22
+        },
+        {
+            "Id": 0,
+            "Time": "16:00:00",
+            "JSTicks": 1416499200000,
+            "Value": 25.98
+        }
+    ]
+}
